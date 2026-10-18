@@ -1,6 +1,6 @@
 ## Hi, I'm Aryaveer 👋
 
-CS undergrad at SMVDU, J&K. I work on **edge AI** - making models that were built for datacenters run on microcontrollers, in real time, with no cloud.
+CS undergrad. I work on **edge AI** - making models that were built for datacenters run on microcontrollers, in real time, with no cloud.
 
 **Now:** Research and Development Intern (Erasmus+) at University of Ljubljana, on carbon-aware scheduling for LLM inference. Visiting Researcher at **Nanyang Technological University Singapore** from Jan 2027.
 
