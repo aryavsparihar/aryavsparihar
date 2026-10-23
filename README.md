@@ -6,6 +6,4 @@ CS undergrad. I work on **edge AI** - making models that were built for datacent
 
 **Tools:** PyTorch, TensorFlow, Hugging Face Transformers · TensorFlow Lite, ONNX Runtime · 4/8-bit quantization, pruning, distillation, QLoRA · Raspberry Pi, Arduino Nano
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryavsparihar&layout=donut&theme=transparent)
-
 **Reach me:** [LinkedIn](https://www.linkedin.com/in/aryavsparihar)
